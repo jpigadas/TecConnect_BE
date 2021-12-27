@@ -1,0 +1,12 @@
+Flask==1.1.1
+Flask-SQLAlchemy
+Flask-Migrate
+flask-marshmallow
+marshmallow-sqlalchemy
+pymysql
+zappa
+boto3~=1.18.36
+cryptography==3.2
+crypto
+marshmallow~=3.13.0
+botocore~=1.21.36

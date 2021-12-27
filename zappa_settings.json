@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "server.app",
+        "profile_name": "default",
+        "project_name": "tectango-test",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-81xf0tu2p",
+        "aws_region": "us-east-1"
+    }
+}
